@@ -1,0 +1,18 @@
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\bin\Debug\vigenereASCII.exe
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\bin\Debug\vigenereASCII.pdb
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\vigenereASCII.Form1.resources
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\vigenereASCII.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\vigenereASCII.exe
+c:\users\eric\documents\visual studio 2010\Projects\vigenereASCII\vigenereASCII\obj\x86\Debug\vigenereASCII.pdb
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\vigenereASCII.exe
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\vigenereASCII.pdb
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\bin\Debug\vigenereASCII.exe
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\bin\Debug\vigenereASCII.pdb
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\vigenereASCII.Form1.resources
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\vigenereASCII.Properties.Resources.resources
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Eric\Desktop\vigenereASCII aux\vigenereASCII\obj\x86\Debug\GenerateResource.write.1.tlog
