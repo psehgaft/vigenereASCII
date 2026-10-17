@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -319,6 +319,7 @@ namespace vigenereASCII
         }
         private void button2_Click_1(object sender, EventArgs e) //CIFRAR
         {
+            mapeo.Clear(); // reiniciar la tabla de offsets para que cifrar dos veces seguidas no mezcle estados
             int num_lineas = myLista.Count;
             int i;
             string cadena = "";
@@ -378,6 +379,7 @@ namespace vigenereASCII
         private void button4_Click_1(object sender, EventArgs e) //DECIFRAR
         {
             richTextBox2.AppendText("\n");
+            indice = 0; // reiniciar el puntero de offsets para descifrar correctamente en cada intento
             int num_lineas = listaVigenere.Count;
             int i;
             string cadena = "";
